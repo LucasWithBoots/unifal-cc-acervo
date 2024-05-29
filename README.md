@@ -1,6 +1,26 @@
-# just-the-docs-template
+# Unifal Acervo Ciência da Computação
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+## Boas práticas
+
+### Novas seções e arquivos
+
+Todas as páginas e arquivos, com exeção do `index.md`, devem ser alocadas dentro da pasta `./docs`.
+
+As disciplinas devem ser dividas por subpastas dentro de `./docs`. Todo espaço deve ser substituido por `-` e todo acento e/ou caracter especial deve ser substituido, exemplo:
+
+```
+./docs
+    /algebra-linar
+        prova1.pdf
+        prova2.pdf
+        trabalho.zip
+        index.md
+        
+```
+Note que `./docs/algebra-linear/index.md` é a primeira página que será exibida. Até o momento não é necessário criar outras páginas dentro de cada disciplina além da `./index.md`
+
+
+This is a *bare-minimum* template to create a [Jekyll] site that[^1]:
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
@@ -161,6 +181,7 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
+[Unifal]: https://www.unifal-mg.edu.br/portal/index/ 
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
