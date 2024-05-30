@@ -1,4 +1,4 @@
-title: Acervo Ciência da Computação
+title: Acervo CC
 description: Acervo de projetos, provas e outros materiais acadêmicos durante o curso de Ciência da Computação 🎓
 theme: just-the-docs
 
@@ -6,8 +6,10 @@ url: https://luwucaz.github.io/unifal-cc-acervo/
 
 favicon_ico: "/assets/images/favicon.ico"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+callouts:
+  aviso:
+    title: Aviso
+    color: red
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
@@ -17,3 +19,4 @@ nav_external_links:
     url: https://github.com/luwucaz/unifal-cc-acervo
     hide_icon: false
     opens_in_new_tab: true
+

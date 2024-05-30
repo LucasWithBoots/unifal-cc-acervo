@@ -1,18 +1,14 @@
 ---
 layout: default
-title: Geometria Analítica
+title: Programação Lógica
 parent: Disciplinas
 ---
 
-# Geometria Analítica
+# Programação Lógica
 
 ## Avaliação
 
 [Prova 1](prova1.pdf)
-
-[Prova 2](prova2.pdf)
-
-[Prova 3](prova3.pdf)
 
 ## Projeto
 
