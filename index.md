@@ -25,7 +25,7 @@ Aqui, você encontrará uma extensa coleção de recursos, desde provas e trabal
 
 Não é necessário entender de formatação [Markdown] nem de [Jekyll] para contribuir! São diversas as disciplinas que nós, alunos da computação, nos matriculamos. Por isso, qualquer material, como prova, trabalho ou atividade é muito importante para nós!
 
-Envie seu material pelo meu e-mail [lucas.carrijoferrari@gmail.com](lucas.carrijoferrari@gmail.com), pelo [Formulário do Google], ou caso queira contribuir diretamente com o projeto: usando a opção de [Pull Request]. Lembrando que a publicação de conteúdos no acervo é anônima, a não ser que queira ser mencionado na lista abaixo.
+Envie seu material pelo [Formulário do Google], ou caso queira contribuir diretamente com o projeto: usando a opção de [Pull Request]. Lembrando que a publicação de conteúdos no acervo é anônima, a não ser que queira ser mencionado na lista abaixo.
 
 #### Obrigado pela contribuição no acervo!
 
