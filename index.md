@@ -7,7 +7,7 @@ nav_order: 0
 # Acervo da Ciência da Computação<br />Unifal
 {: .fs-9 }
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
 {: .fs-6 .fw-300 }
 
 ---
@@ -17,13 +17,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 >
 > A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações contidas neste site.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla enim eget ultricies molestie. Vivamus mattis maximus maximus. Donec semper, magna sed cursus ornare, lacus purus eleifend purus, in mollis ante tortor ut nisi. Curabitur lobortis ante tempor neque suscipit, nec sagittis ante facilisis.
+Bem-vindo ao Acervo da Ciência da Computação da Unifal!
 
-Sed luctus, felis a volutpat dapibus, tortor leo dignissim lacus, ut sollicitudin dolor neque in lorem. Praesent rutrum pulvinar mattis. Etiam vitae sollicitudin odio, id dignissim lorem. Donec tincidunt, dui sit amet ornare semper, neque nisl accumsan diam, sed dictum dui felis eu lectus. Pellentesque tristique turpis lorem, eget finibus lacus tempus eget. Vivamus non ipsum nec velit varius rutrum at at metus. Nulla neque sapien, fringilla eget nibh non, auctor pulvinar augue.
-
+Aqui, você encontrará uma extensa coleção de recursos, desde provas e trabalhos até materiais de estudo e atividades, cuidadosamente organizados para facilitar sua busca por conhecimento. Este acervo é mantido por estudantes comprometidos em promover o aprendizado e o crescimento dentro da comunidade de Ciência da Computação da Unifal, de estudantes para estudantes.
 
 ### Contribuição
 
+Não é necessário entender de formatação [Markdown] nem de [Jekyll] para contribuir! São diversas as disciplinas que nós, alunos da computação, nos matriculamos. Por isso, qualquer material, como prova, trabalho ou atividade é muito importante para nós!
 
+Envie seu material pelo meu e-mail [lucas.carrijoferrari@gmail.com](lucas.carrijoferrari@gmail.com), pelo [Formulário do Google], ou caso queira contribuir diretamente com o projeto: usando a opção de [Pull Request]. Lembrando que a publicação de conteúdos no acervo é anônima, a não ser que queira ser mencionado na lista abaixo.
+
+#### Obrigado pela contribuição no acervo!
+
+
+[Formulário do Google]: https://forms.gle/MqpnTDryrzs8mXvE6
+[Pull Request]: https://github.com/luwucaz/unifal-cc-acervo/pulls
+[Markdown]: https://daringfireball.net/projects/markdown/
+[Jekyll]: https://jekyllrb.com/
 [Universidade Federal de Alfenas (UNIFAL-MG)]: https://www.unifal-mg.edu.br/
 [UNIFAL-MG]: https://www.unifal-mg.edu.br/

@@ -1,6 +1,11 @@
-# [Unifal] Acervo Ciência da Computação
+<p align="center">
+    <h1 align="center">Unifal-MG | Acervo Ciência da Computação</h1>
+    <p align="center">Central de Provas, Trabalhos, Atividades e Materiais de Estudo</p>
+    <p align="center" style="margin-top: -10px"><strong><a href="https://luwucaz.github.io/unifal-cc-acervo/">Acesse aqui!</a></strong></p>
+    </br></br></br>
+</p>
 
-## Boas práticas
+## Contribua
 
 ### Novas seções
 
@@ -28,8 +33,10 @@ Exemplo de normalização
 ```
 Note que `./docs/algebra-linear/index.md` é a primeira página que será exibida. Até o momento não é necessário criar outras páginas dentro de cada disciplina além da `./index.md`
 
-## Quer contribuir?
+## Aviso
+Este acervo é uma iniciativa independente e não possui nenhuma afiliação, parceria ou vínculo oficial com a [Universidade Federal de Alfenas (UNIFAL-MG)]. Todo o conteúdo disponível aqui é de responsabilidade exclusiva dos seus administradores e visa apenas fornecer um recurso adicional para auxiliar os estudantes em seus estudos.
 
+A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações contidas neste site.
 
 
 ## Licensing and Attribution
@@ -40,7 +47,10 @@ Este repositório está licenciado sob a [Licença MIT]. Geralmente, você é li
 
 ----
 
-[Unifal]: https://www.unifal-mg.edu.br/portal/index/ 
+[Confira aqui!]: https://luwucaz.github.io/unifal-cc-acervo/
+[UNIFAL-MG]: https://www.unifal-mg.edu.br/portal/index/
+[Universidade Federal de Alfenas (UNIFAL-MG)]: https://www.unifal-mg.edu.br/portal/index/
+[Unifal]: https://www.unifal-mg.edu.br/portal/index/
 [MIT License]: https://github.com/luwucaz/unifal-cc-acervo/blob/main/LICENSE
 [Licença MIT]: https://github.com/luwucaz/unifal-cc-acervo/blob/main/LICENSE
 
