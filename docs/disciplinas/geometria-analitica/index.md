@@ -8,11 +8,11 @@ parent: Disciplinas
 
 ## Avaliação
 
-1/2024
+2024/1
 {: .label .label-green }
-- [Prova 1](prova1.pdf)
-- [Prova 2](prova2.pdf)
-- [Prova 3](prova3.pdf)
+- [Prova 1](avaliacao/2024/1/prova1.pdf)
+- [Prova 2](avaliacao/2024/1/prova2.pdf)
+- [Prova 3](avaliacao/2024/1/prova3.pdf)
 
 ## Projeto
 
