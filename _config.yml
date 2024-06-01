@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://luwucaz.github.io/unifal-cc-acervo/
 
+color_scheme: dark
+
 favicon_ico: "/assets/images/favicon.ico"
 
 callouts:
