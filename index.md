@@ -31,7 +31,7 @@ Envie seu material pelo [Formulário do Google], ou caso queira contribuir diret
 
 
 [Formulário do Google]: https://forms.gle/MqpnTDryrzs8mXvE6
-[Pull Request]: https://github.com/luwucaz/unifal-cc-acervo/pulls
+[Pull Request]: https://github.com/LucasWithBoots/unifal-cc-acervo/pulls
 [Markdown]: https://daringfireball.net/projects/markdown/
 [Jekyll]: https://jekyllrb.com/
 [Universidade Federal de Alfenas (UNIFAL-MG)]: https://www.unifal-mg.edu.br/
