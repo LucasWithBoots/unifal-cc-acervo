@@ -5,6 +5,8 @@
     </br></br></br>
 </p>
 
+<img src="./assets/images/homescreen.png" style="border-radius:2%">
+
 <!-- Ainda em construção -->
 
 <!-- ## Contribua
