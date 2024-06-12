@@ -5,7 +5,9 @@
     </br></br></br>
 </p>
 
-## Contribua
+<!-- Ainda em construção -->
+
+<!-- ## Contribua
 
 ### Novas seções
 
@@ -31,7 +33,7 @@ Exemplo de normalização
         index.md
         
 ```
-Note que `./docs/algebra-linear/index.md` é a primeira página que será exibida. Até o momento não é necessário criar outras páginas dentro de cada disciplina além da `./index.md`
+Note que `./docs/algebra-linear/index.md` é a primeira página que será exibida. Até o momento não é necessário criar outras páginas dentro de cada disciplina além da `./index.md` -->
 
 ## Aviso
 Este acervo é uma iniciativa independente e não possui nenhuma afiliação, parceria ou vínculo oficial com a [Universidade Federal de Alfenas (UNIFAL-MG)]. Todo o conteúdo disponível aqui é de responsabilidade exclusiva dos seus administradores e visa apenas fornecer um recurso adicional para auxiliar os estudantes em seus estudos.
