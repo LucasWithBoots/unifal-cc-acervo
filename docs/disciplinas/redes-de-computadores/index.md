@@ -4,7 +4,7 @@ title: Redes de Computadores
 parent: Disciplinas
 ---
 
-# Programação Lógica
+# Redes de Computadores
 
 ## Avaliação
 
