@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AEDs 1 Teoria
+title: Cálculo Númerico
 parent: Disciplinas
 ---
 
