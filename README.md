@@ -42,8 +42,6 @@ Este acervo é uma iniciativa independente e não possui nenhuma afiliação, pa
 
 A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações contidas neste site.
 
-----
-
 [Confira aqui!]: https://LucasWithBoots.github.io/unifal-cc-acervo/
 [UNIFAL-MG]: https://www.unifal-mg.edu.br/portal/index/
 [Universidade Federal de Alfenas (UNIFAL-MG)]: https://www.unifal-mg.edu.br/portal/index/
