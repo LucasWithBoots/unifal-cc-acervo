@@ -22,6 +22,8 @@ parent: Disciplinas
 - [Prova 2](avaliacao/2024/1/prova2.pdf)
 - [Prova 3](avaliacao/2024/1/prova3.pdf)
 - [Prova 4](avaliacao/2024/1/prova4.pdf)
+- [Prova 5](avaliacao/2024/1/prova5.pdf)
+- [Prova Especial](avaliacao/2024/1/provaespecial.pdf)
 
 ## Projeto
 
