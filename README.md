@@ -42,13 +42,6 @@ Este acervo é uma iniciativa independente e não possui nenhuma afiliação, pa
 
 A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações contidas neste site.
 
-
-## Licensing and Attribution
-
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template").
-
-Este repositório está licenciado sob a [Licença MIT]. Geralmente, você é livre para reutilizar ou estender este código conforme achar adequado; basta incluir a cópia original da licença (que é preservada quando você "cria um modelo").
-
 ----
 
 [Confira aqui!]: https://LucasWithBoots.github.io/unifal-cc-acervo/
