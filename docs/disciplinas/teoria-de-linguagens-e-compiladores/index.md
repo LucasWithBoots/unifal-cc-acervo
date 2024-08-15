@@ -4,14 +4,14 @@ title: Redes de Computadores
 parent: Disciplinas
 ---
 
-# Redes de Computadores
+# Teoria de Linguagens e Compiladores
 
 ## Avaliação
 
 2022/2
 {: .label .label-green }
 
-- [Prova 3](avaliacao/2022/2/prova3.pdf)
+- [Prova 1](avaliacao/2022/2/prova1.pdf)
 
 ## Projeto
 
