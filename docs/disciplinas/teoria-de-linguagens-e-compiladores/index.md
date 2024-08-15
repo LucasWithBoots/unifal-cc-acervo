@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Redes de Computadores
+title: Teoria de Linguagens e Compiladores
 parent: Disciplinas
 ---
 
