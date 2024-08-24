@@ -6,13 +6,7 @@ parent: Disciplinas
 
 # Redes de Computadores
 
-## Avaliação
-
 2022/2
 {: .label .label-green }
 
-- [Prova 3](avaliacao/2022/2/prova3.pdf)
-
-## Projeto
-
-## Atividade
+- [Prova 3](2022/2/prova3.pdf)
