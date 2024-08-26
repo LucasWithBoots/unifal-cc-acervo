@@ -5,6 +5,7 @@ nav_order: 0
 ---
 
 # Acervo da Ciência da Computação<br />Unifal
+
 {: .fs-9 }
 
 Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
@@ -13,7 +14,10 @@ Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
 ---
 
 {: .aviso }
+
 > Este acervo é uma iniciativa independente e não possui nenhuma afiliação, parceria ou vínculo oficial com a [Universidade Federal de Alfenas (UNIFAL-MG)]. Todo o conteúdo disponível aqui é de responsabilidade exclusiva dos seus administradores e visa apenas fornecer um recurso adicional para auxiliar os estudantes em seus estudos.
+>
+> O acervo não possui qualquer caráter econômico, apenas educacional. O autor se dispõe a remover qualquer material não autorizado mediante solicitação.
 >
 > A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações contidas neste site.
 
@@ -28,7 +32,6 @@ Não é necessário entender de formatação [Markdown] nem de [Jekyll] para con
 Envie seu material pelo [Formulário do Google], ou caso queira contribuir diretamente com o projeto: usando a opção de [Pull Request]. Lembrando que a publicação de conteúdos no acervo é anônima, a não ser que queira ser mencionado na lista abaixo.
 
 #### Obrigado pela contribuição no acervo!
-
 
 [Formulário do Google]: https://forms.gle/MqpnTDryrzs8mXvE6
 [Pull Request]: https://github.com/LucasWithBoots/unifal-cc-acervo/pulls

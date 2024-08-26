@@ -7,38 +7,32 @@
 
 <img src="./assets/images/homescreen.png" style="border-radius:2%">
 
-<!-- Ainda em construção -->
-
-<!-- ## Contribua
-
-### Novas seções
-
-Todo conteúdo[^1] deve ser alocado dentro da pasta `./docs`.
-[^1]: Entende-se por "conteúdo" todo arquivo que contem informações sobre as disciplinas do curso, como avaliações, projetos, artigos e entre outros.
-
-As disciplinas devem ser dividas por subpastas dentro de `./docs`.
-
-### Normalização de conteúdo
-
-Caracteres especiais[^2] e espaços em nomes de conteúdos devem ser substituídos por, respectivamente, seu equivalente em caractere padrão e `-`
-
-[^2]: símbolos gráficos, matemáticos, sinais de pontuação, com exceção do `-`, acentuação
-
-Exemplo de normalização
+## Padrão para novos documentos
 
 ```
-./docs
-    /algebra-linar
-        prova1.pdf
-        prova2.pdf
-        trabalho.zip
-        index.md
-        
+docs/
+└── disciplinas/
+    └── calculo-1/
+        ├── index.md
+        └── 2023/
+            └── 2/
+                └── prova1.pdf
+
 ```
-Note que `./docs/algebra-linear/index.md` é a primeira página que será exibida. Até o momento não é necessário criar outras páginas dentro de cada disciplina além da `./index.md` -->
+
+- `docs`: Armazena qualquer documento que é disponibilizado
+- `disciplinas`: Pasta com todas as disciplinas
+- `calculo-1`: Nome da disciplina
+- `index.md`: A primeira página (e única, até o momento) que será exibida ao abrir a disciplina
+- `2023`: Ano que o documento foi emitido
+- `2`: Perído que o documento foi emitido (pode ser "1" ou "2")
+- `prova1.pdf`: Exemplo de documento
 
 ## Aviso
+
 Este acervo é uma iniciativa independente e não possui nenhuma afiliação, parceria ou vínculo oficial com a [Universidade Federal de Alfenas (UNIFAL-MG)]. Todo o conteúdo disponível aqui é de responsabilidade exclusiva dos seus administradores e visa apenas fornecer um recurso adicional para auxiliar os estudantes em seus estudos.
+
+O acervo não possui qualquer caráter econômico, apenas educacional. O autor se dispõe a remover qualquer material não autorizado mediante solicitação.
 
 A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações contidas neste site.
 
@@ -48,5 +42,3 @@ A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações cont
 [Unifal]: https://www.unifal-mg.edu.br/portal/index/
 [MIT License]: https://github.com/LucasWithBoots/unifal-cc-acervo/blob/main/LICENSE
 [Licença MIT]: https://github.com/LucasWithBoots/unifal-cc-acervo/blob/main/LICENSE
-
-
