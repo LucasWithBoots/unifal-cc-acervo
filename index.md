@@ -5,7 +5,6 @@ nav_order: 0
 ---
 
 # Acervo da Ciência da Computação<br />Unifal
-
 {: .fs-9 }
 
 Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
