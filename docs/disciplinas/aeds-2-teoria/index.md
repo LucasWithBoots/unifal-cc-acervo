@@ -6,7 +6,7 @@ parent: Disciplinas
 
 # AEDs 2 Teoria
 
-2023/1
+2023/2
 {: .label .label-green }
 
 - [Prova 1](2023/2/prova1)
