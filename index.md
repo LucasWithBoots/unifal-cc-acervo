@@ -5,10 +5,11 @@ nav_order: 0
 ---
 
 # Acervo da Ciência da Computação<br />Unifal
+
 {: .fs-9 }
 
 Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
-{: .fs-6 .fw-300 } 
+{: .fs-6 .fw-300 }
 
 ---
 
@@ -23,14 +24,6 @@ Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
 Bem-vindo ao Acervo da Ciência da Computação da Unifal!
 
 Aqui, você encontrará uma extensa coleção de recursos, desde provas e trabalhos até materiais de estudo e atividades, cuidadosamente organizados para facilitar sua busca por conhecimento. Este acervo é mantido por estudantes comprometidos em promover o aprendizado e o crescimento dentro da comunidade de Ciência da Computação da Unifal, de estudantes para estudantes.
-
-### Contribuição
-
-Não é necessário entender de formatação [Markdown] nem de [Jekyll] para contribuir! São diversas as disciplinas que nós, alunos da computação, nos matriculamos. Por isso, qualquer material, como prova, trabalho ou atividade é muito importante para nós!
-
-Envie seu material pelo [Formulário do Google], ou caso queira contribuir diretamente com o projeto: usando a opção de [Pull Request]. Lembrando que a publicação de conteúdos no acervo é anônima, a não ser que queira ser mencionado na lista abaixo.
-
-#### Obrigado pela contribuição no acervo!
 
 [Formulário do Google]: https://forms.gle/MqpnTDryrzs8mXvE6
 [Pull Request]: https://github.com/LucasWithBoots/unifal-cc-acervo/pulls
