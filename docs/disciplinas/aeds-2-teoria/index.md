@@ -9,6 +9,11 @@ parent: Disciplinas
 2023/2
 {: .label .label-green }
 
+- [Prova 2](2023/1/prova2.pdf)
+
+2023/2
+{: .label .label-green }
+
 - [Prova 1](2023/2/prova1)
 - [Prova 2](2023/2/prova2)
 - [Prova 3](2023/2/prova3)
