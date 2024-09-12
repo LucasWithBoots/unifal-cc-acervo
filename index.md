@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-# Acervo da Ciência da Computação<br/>Unifal
+# **Acervo da Ciência da Computação**
 
 Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
 {: .fs-6 .fw-300 }
