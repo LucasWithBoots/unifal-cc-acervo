@@ -4,7 +4,7 @@
   "description": "Acervo de projetos, provas e outros materiais acadêmicos durante o curso de Ciência da Computação",
   "scripts": {
     "prettier": "npx prettier . --write",
-    "jekyll": "bundle exec jekyll serve --livereload"
+    "jekyll": "bundle exec jekyll serve"
   },
   "repository": {
     "type": "git",
