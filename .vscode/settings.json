@@ -1,0 +1,11 @@
+{
+    // Escondendo alguns arquivos somente de configuração e cache
+    "files.exclude": {
+        "node_modules": true,
+        "_site": true,
+        ".jekyll-cache": true,
+        ".github": true,
+        "LICENSE*": true,
+        "Gemfile*": true
+    }
+}
