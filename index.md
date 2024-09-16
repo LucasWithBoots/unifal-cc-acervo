@@ -3,8 +3,8 @@ title: Home
 layout: home
 nav_order: 0
 ---
-{% assign pdf_files = site.static_files | where_exp: "file", "file.path contains '/docs/disciplinas/' and file.extname != '.md' and file.extname != '.html'" %}
 
+{% assign pdf_files = site.static_files | where_exp: "file", "file.path contains '/docs/disciplinas/' and file.extname != '.md' and file.extname != '.html'" %}
 
 # **Acervo da Ciência da Computação**
 
