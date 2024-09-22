@@ -18,5 +18,12 @@ nav_order: 3
 
 <!-- Replace the variables below. -->
 <script>
-
+  document.querySelector('#altcha').addEventListener('statechange', (ev) => {
+  // state can be: unverified, verifying, verified, error
+  console.log('state:', ev.detail.state);
+  if (ev.detail.state === 'verified') {
+    // payload contains base64 encoded data for the server
+    console.log('payload:', ev.detail.payload);
+  }
+});
 </script>
