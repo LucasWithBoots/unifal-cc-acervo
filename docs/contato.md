@@ -16,9 +16,29 @@ nav_order: 3
 </form>
 
 <script>
-  // Adiciona um event listener para quando o captcha for verificado com sucesso
-  document.getElementById('altcha').addEventListener('altcha-verified', function() {
-    console.log('Captcha resolvido corretamente!');
-    // Aqui você pode adicionar outras ações, como desbloquear um botão de submit
+  document.addEventListener("DOMContentLoaded", function() {
+    const altchaWidget = document.getElementById("altcha");
+    
+    // Verifica se o widget existe
+    if (altchaWidget) {
+      // Cria um observador para monitorar mudanças no atributo `data-state`
+      const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+          if (mutation.attributeName === "data-state") {
+            const state = altchaWidget.getAttribute("data-state");
+            
+            // Verifica se o estado mudou para 'verified'
+            if (state === "verified") {
+              console.log("Captcha verificado com sucesso!");
+            } else if (state === "unverified") {
+              console.log("Captcha não verificado.");
+            }
+          }
+        });
+      });
+
+      // Inicia o observador, monitorando o atributo `data-state`
+      observer.observe(altchaWidget, { attributes: true });
+    }
   });
 </script>
