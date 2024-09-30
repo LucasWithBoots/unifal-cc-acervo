@@ -2,6 +2,7 @@
     <h1 align="center">Unifal-MG | Acervo Ciência da Computação</h1>
     <p align="center">Central de Provas, Trabalhos, Atividades e Materiais de Estudo</p>
     <p align="center" style="margin-top: -10px"><strong><a href="https://LucasWithBoots.github.io/unifal-cc-acervo/">Acesse aqui!</a></strong></p>
+    <img src="./assets/images/image.png" />
     </br>
 </p>
 
