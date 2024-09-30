@@ -16,12 +16,9 @@ nav_order: 3
 </form>
 
 <script>
-    document.querySelector('#altcha').addEventListener('statechange', (ev) => {
-  // state can be: unverified, verifying, verified, error
-  console.log('state:', ev.detail.state);
-  if (ev.detail.state === 'verified') {
-    // payload contains base64 encoded data for the server
-    console.log('payload:', ev.detail.payload);
-  }
-});
+  // Adiciona um event listener para quando o captcha for verificado com sucesso
+  document.getElementById('altcha').addEventListener('altcha-verified', function() {
+    console.log('Captcha resolvido corretamente!');
+    // Aqui você pode adicionar outras ações, como desbloquear um botão de submit
+  });
 </script>
