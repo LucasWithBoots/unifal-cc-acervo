@@ -1,8 +1,8 @@
 <p align="center">
     <h1 align="center">Unifal-MG | Acervo Ciência da Computação</h1>
     <p align="center">Central de Provas, Trabalhos, Atividades e Materiais de Estudo</p>
-    <p align="center" style="margin-top: -10px"><strong><a href="https://LucasWithBoots.github.io/unifal-cc-acervo/">Acesse aqui!</a></strong></p>
-    <a href="https://lucaswithboots.github.io/unifal-cc-acervo/" target="_blank"><img src="./assets/images/image.png" /></a>
+    <p align="center" style="margin-top: -10px"><strong><a href="https://jojoosiwa.github.io/unifal-cc-acervo/">Acesse aqui!</a></strong></p>
+    <a href="https://jojoosiwa.github.io/unifal-cc-acervo/" target="_blank"><img src="./assets/images/image.png" /></a>
     </br>
 </p>
 
@@ -35,9 +35,9 @@ O acervo não possui qualquer caráter econômico, apenas educacional. O autor s
 
 A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações contidas neste site.
 
-[Confira aqui!]: https://LucasWithBoots.github.io/unifal-cc-acervo/
+[Confira aqui!]: https://jojoosiwa.github.io/unifal-cc-acervo/
 [UNIFAL-MG]: https://www.unifal-mg.edu.br/portal/index/
 [Universidade Federal de Alfenas (UNIFAL-MG)]: https://www.unifal-mg.edu.br/portal/index/
 [Unifal]: https://www.unifal-mg.edu.br/portal/index/
-[MIT License]: https://github.com/LucasWithBoots/unifal-cc-acervo/blob/main/LICENSE
-[Licença MIT]: https://github.com/LucasWithBoots/unifal-cc-acervo/blob/main/LICENSE
+[MIT License]: https://github.com/jojoosiwa/unifal-cc-acervo/blob/main/LICENSE
+[Licença MIT]: https://github.com/jojoosiwa/unifal-cc-acervo/blob/main/LICENSE

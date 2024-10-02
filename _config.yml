@@ -2,7 +2,7 @@ title: Acervo Cc
 description: Acervo de projetos, provas e outros materiais acadêmicos durante o curso de Ciência da Computação 🎓
 theme: just-the-docs
 
-url: https://LucasWithBoots.github.io/unifal-cc-acervo/
+url: https://jojoosiwa.github.io/unifal-cc-acervo/
 
 color_scheme: dark
 
@@ -21,6 +21,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 nav_external_links:
   - title: Acervo no GitHub
-    url: https://github.com/LucasWithBoots/unifal-cc-acervo
+    url: https://github.com/jojoosiwa/unifal-cc-acervo
     hide_icon: false
     opens_in_new_tab: true

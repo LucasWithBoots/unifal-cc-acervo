@@ -28,8 +28,6 @@ Bem-vindo ao Acervo da Ciência da Computação da Unifal!
 
 Aqui, você encontrará uma extensa coleção de recursos, desde provas e trabalhos até materiais de estudo e atividades, cuidadosamente organizados para facilitar sua busca por conhecimento. Este acervo é mantido por estudantes comprometidos em promover o aprendizado e o crescimento dentro da comunidade de Ciência da Computação da Unifal, de estudantes para estudantes.
 
-[Formulário do Google]: https://forms.gle/MqpnTDryrzs8mXvE6
-[Pull Request]: https://github.com/LucasWithBoots/unifal-cc-acervo/pulls
 [Markdown]: https://daringfireball.net/projects/markdown/
 [Jekyll]: https://jekyllrb.com/
 [Universidade Federal de Alfenas (UNIFAL-MG)]: https://www.unifal-mg.edu.br/
