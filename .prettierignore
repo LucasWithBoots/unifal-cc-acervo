@@ -2,4 +2,4 @@
 build
 coverage
 .github
-.vscode
+node_modules
