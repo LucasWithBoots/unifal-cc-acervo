@@ -1,10 +1,10 @@
 {
-    "files.exclude": {
-        "node_modules": true,
-        "_site": true,
-        ".jekyll-cache": true,
-        ".github": true,
-        "LICENSE*": true,
-        "Gemfile*": true
-    }
+    // "files.exclude": {
+    //     "node_modules": true,
+    //     "_site": true,
+    //     ".jekyll-cache": true,
+    //     ".github": true,
+    //     "LICENSE*": true,
+    //     "Gemfile*": true
+    // }
 }

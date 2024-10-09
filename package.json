@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jojoosiwa/unifal-cc-acervo.git"
+    "url": "git+https://github.com/LucasWithBoots/unifal-cc-acervo.git"
   },
-  "author": "Jojoo Siwa",
+  "author": "Lucas Ferrari",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jojoosiwa/unifal-cc-acervo/issues"
+    "url": "https://github.com/LucasWithBoots/unifal-cc-acervo/issues"
   },
-  "homepage": "https://github.com/jojoosiwa/unifal-cc-acervo#readme",
+  "homepage": "https://github.com/LucasWithBoots/unifal-cc-acervo#readme",
   "devDependencies": {
     "prettier": "3.3.3"
   }
