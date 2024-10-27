@@ -15,7 +15,3 @@ parent: Disciplinas
 {: .label .label-green }
 
 - Prova 1
-
-{: .importante }
-
-> Entre em contato
