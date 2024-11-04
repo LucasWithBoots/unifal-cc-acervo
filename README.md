@@ -6,6 +6,12 @@
     </br>
 </p>
 
+## Quais tecnologias o acervo utiliza?
+
+Este acervo foi desenvolvido utilizando [Jekyll], um gerador de sites estáticos que facilita a criação de páginas web rápidas. [Jekyll] é escrito em Ruby e permite transformar arquivos markdown e HTML em um site estático completo. Para o layout e navegação, usamos o template [Just the Docs].
+
+Além da vantagem de criar páginas rapidamente, [GitHub Pages] suporta o uso de [Jekyll], o que torna a publicação de projetos armazenados no GitHub fácil e gratuita.
+
 ## Padrão para novos documentos
 
 ```
@@ -41,3 +47,6 @@ A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações cont
 [Unifal]: https://www.unifal-mg.edu.br/portal/index/
 [MIT License]: https://github.com/LucasWithBoots/unifal-cc-acervo/blob/main/LICENSE
 [Licença MIT]: https://github.com/LucasWithBoots/unifal-cc-acervo/blob/main/LICENSE
+[Jekyll]: https://jekyllrb.com/
+[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+[Github Pages]: https://pages.github.com/
