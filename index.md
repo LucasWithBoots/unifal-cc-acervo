@@ -15,6 +15,7 @@ Temos {{ pdf_files | size }} arquivos no nosso acervo! 🎉
 {: .fs-5 .fw-300 }
 
 <span class="fs-5">
+[Acessar Disciplinas](./docs/disciplinas){: .btn .btn-purple .mr-2}
 [Veja no Github](https://github.com/LucasWithBoots/unifal-cc-acervo){: .btn  }
 </span>
 
