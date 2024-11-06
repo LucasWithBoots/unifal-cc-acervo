@@ -14,7 +14,15 @@ Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
 Temos {{ pdf_files | size }} arquivos no nosso acervo! 🎉
 {: .fs-5 .fw-300 }
 
+<span class="fs-5">
+[Veja no Github](https://github.com/LucasWithBoots/unifal-cc-acervo){: .btn  }
+</span>
+
 ---
+
+{: .informacao }
+
+> Algumas provas podem estar com links quebrados ou sem link disponível. Nesses casos, a prova pode ter sido removida ou ocorrido algum erro. Para mais informações, entre em contato com o administrador.
 
 {: .aviso }
 

@@ -15,6 +15,9 @@ callouts:
   importante:
     title: Importante
     color: lightblue
+  informacao:
+    title: Informação
+    color: yellow
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
