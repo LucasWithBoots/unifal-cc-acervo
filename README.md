@@ -1,6 +1,9 @@
 <p align="center">
     <h1 align="center">Unifal-MG | Acervo Ciência da Computação</h1>
     <p align="center">Central de Provas, Trabalhos, Atividades e Materiais de Estudo</p>
+    <p align="center">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=jekyll,markdown">
+    </p>
     <p align="center" style="margin-top: -10px"><strong><a href="https://LucasWithBoots.github.io/unifal-cc-acervo/">Acesse aqui!</a></strong></p>
     <a href="https://LucasWithBoots.github.io/unifal-cc-acervo/" target="_blank"><img src="./assets/images/image.png" /></a>
     </br>
