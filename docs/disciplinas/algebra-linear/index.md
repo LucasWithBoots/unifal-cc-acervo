@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Álgebra Linear
+nav_order: 1
 parent: Disciplinas
 ---
 
