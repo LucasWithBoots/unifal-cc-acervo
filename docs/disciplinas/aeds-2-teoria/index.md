@@ -9,7 +9,7 @@ parent: Disciplinas
 2023/1
 {: .label .label-green }
 
-- [Prova 2](2023/1/prova2.pdf)
+- [Prova 2 (folha)](2023/1/prova2.pdf)
 
 2023/2
 {: .label .label-green }
@@ -28,3 +28,4 @@ parent: Disciplinas
 
 - [Prova 1](2024/2/prova1)
 - [Prova 2](2024/2/prova2)
+- [Prova 2 (folha)](2024/2/prova2folha.pdf)
