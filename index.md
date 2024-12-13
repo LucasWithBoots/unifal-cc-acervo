@@ -33,10 +33,6 @@ Temos {{ pdf_files | size }} arquivos no nosso acervo! 🎉
 >
 > A [UNIFAL-MG] não endossa, valida ou se responsabiliza pelas informações contidas neste site.
 
-Bem-vindo ao Acervo da Ciência da Computação da Unifal!
-
-Aqui, você encontrará uma extensa coleção de recursos, desde provas e trabalhos até materiais de estudo e atividades, cuidadosamente organizados para facilitar sua busca por conhecimento. Este acervo é mantido por estudantes comprometidos em promover o aprendizado e o crescimento dentro da comunidade de Ciência da Computação da Unifal, de estudantes para estudantes.
-
 [Markdown]: https://daringfireball.net/projects/markdown/
 [Jekyll]: https://jekyllrb.com/
 [Universidade Federal de Alfenas (UNIFAL-MG)]: https://www.unifal-mg.edu.br/
