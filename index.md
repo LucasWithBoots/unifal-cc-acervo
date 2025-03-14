@@ -6,7 +6,7 @@ nav_order: 0
 
 {% assign pdf_files = site.static_files | where_exp: "file", "file.path contains '/docs/disciplinas/' and file.extname != '.md' and file.extname != '.html'" %}
 
-# **Acervo da Ciência da Computação**
+# **Acervo da Ciência da Computaçãoooo**
 
 Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
 {: .fs-6 .fw-300 }
