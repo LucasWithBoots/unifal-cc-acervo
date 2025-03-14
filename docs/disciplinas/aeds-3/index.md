@@ -30,13 +30,11 @@ parent: Disciplinas
 - [Prova 3](2024/1/prova3.pdf)
 - [Prova 4](2024/1/prova4.pdf)
 
+{: .importante }
+
+> Extraído [do repositório do professor Iago](https://github.com/iagoac/dce529)
+
 2025/1
 {: .label .label-green }
 
 - [Prova 1](2025/1/prova1.pdf)
-
-{: .importante }
-
-> Todas as provas estão disponveis para consulta no [repositório do Github] do professor
-
-[repositório do Github]: https://github.com/iagoac/dce529
