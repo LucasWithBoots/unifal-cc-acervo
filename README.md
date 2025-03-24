@@ -15,6 +15,43 @@ Este acervo foi desenvolvido utilizando [Jekyll], um gerador de sites estáticos
 
 Além da vantagem de criar páginas rapidamente, [GitHub Pages] suporta o uso de [Jekyll], o que torna a publicação de projetos armazenados no GitHub fácil e gratuita.
 
+## Como usar localmente
+
+Antes de começar, confira a [documentação oficial do Jekyll](https://jekyllrb.com/docs/) para informações detalhadas.
+
+### Pré-requisitos
+
+Certifique-se de ter instalado em seu sistema:
+
+- Ruby (versão 2.5.0 ou superior)
+- RubyGems
+- GCC (compilador C)
+- Make
+
+```bat
+bundle install
+```
+
+### Configuração do ambiente
+
+1. Instale as dependências do Ruby:
+
+```bash
+bundle install
+```
+
+> Se encontrar problemas de permissão, execute com `sudo`
+
+2. Inicie o servidor local:
+
+```bash
+bundle exec jekyll serve
+```
+
+O site estará disponível em [http://localhost:4000/](http://localhost:4000/)
+
+> Se estiver usando o VSCode, pressione `Ctrl + Shift + B` para executar mais rapidamente
+
 ## Padrão para novos documentos
 
 ```
