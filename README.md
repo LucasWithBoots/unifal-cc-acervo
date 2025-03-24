@@ -23,7 +23,7 @@ Antes de começar, confira a [documentação oficial do Jekyll](https://jekyllrb
 
 Certifique-se de ter instalado em seu sistema:
 
-- Ruby (versão 2.5.0 ou superior)
+- Ruby (versão 2.7.0 ou superior)
 - RubyGems
 - GCC (compilador C)
 - Make
