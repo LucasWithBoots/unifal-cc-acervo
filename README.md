@@ -9,7 +9,7 @@
     </br>
 </p>
 
-## Quais tecnologias o acervo utiliza?
+## Quais tecnologias o acervo utiliza
 
 Este acervo foi desenvolvido utilizando [Jekyll], um gerador de sites estáticos que facilita a criação de páginas web rápidas. [Jekyll] é escrito em Ruby e permite transformar arquivos markdown e HTML em um site estático completo. Para o layout e navegação, usamos o template [Just the Docs].
 
