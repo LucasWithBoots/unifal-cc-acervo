@@ -28,11 +28,7 @@ Certifique-se de ter instalado em seu sistema:
 - GCC (compilador C)
 - Make
 
-```bat
-bundle install
-```
-
-### Configuração do ambiente
+### Configuração do ambiente e executando o projeto
 
 1. Instale as dependências do Ruby:
 
