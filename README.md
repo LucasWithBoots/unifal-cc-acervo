@@ -5,7 +5,7 @@
         <img src="https://go-skill-icons.vercel.app/api/icons?i=jekyll,markdown">
     </p>
     <p align="center" style="margin-top: -10px"><strong><a href="https://LucasWithBoots.github.io/unifal-cc-acervo/">Acesse aqui!</a></strong></p>
-    <a href="https://LucasWithBoots.github.io/unifal-cc-acervo/" target="_blank"><img src="./assets/images/image.png" /></a>
+    <a href="https://LucasWithBoots.github.io/unifal-cc-acervo/" target="_blank"><img src="./assets/images/cover.png" /></a>
     </br>
 </p>
 
