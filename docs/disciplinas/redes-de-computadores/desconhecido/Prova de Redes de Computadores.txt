@@ -1,0 +1,184 @@
+Prova de Redes de Computadores
+
+A prova terá entre 8 a 10 questões no total
+
+Nesse Arquivo terá as probabilidades de cair os exercícios utilizando as 6 provas antigas como dados
+
+
+Tema e numero de vezes que os exercícios apareceram nas 6 provas antigas de redes
+provas de 2014 até 2024
+
+P2P calculo - 6
+atraso de transmissão - 3
+atraso fim-a-fim - 6
+quantas consultasDNS - 2
+cabeçalho http - 4
+DNS - UDP-TCP - 5
+SMTP(troca de mensagens) -  5
+Enlace - 2
+get condicional - 2
+RTTs e DNS - 1
+HTTP persistente... - 2
+Go-Back-N - 1
+funções de transporte - 1
+RDT - 1
+Distribuição binomial - 1
+priorização de stream - 1
+
+
+---------------------------------------------------
+Probabilidade de cair as questões
+Para uma prova com 8 questões:
+P2P cálculo → 38,99%
+Atraso de transmissão → 33,64%
+Atraso fim-a-fim → 38,99%
+Quantas consultas de DNS → 26,66%
+Cabeçalho HTTP → 37,57%
+DNS - UDP/TCP → 39,16%
+SMTP (troca de mensagens) → 39,16%
+Enlace → 26,66%
+Get condicional → 26,66%
+RTTs e DNS → 15,78%
+HTTP persistente/não persistente → 26,66%
+Go-Back-N → 15,78%
+Funções de transporte → 15,78%
+RDT → 15,78%
+Distribuição binomial/Estatística  → 15,78%
+Priorização de stream → 15,78%
+
+Para uma prova com 10 questões:
+P2P cálculo → 36,08%
+Atraso de transmissão → 36,39%
+Atraso fim-a-fim → 36,08%
+Quantas consultas DNS → 30,30%
+Cabeçalho HTTP → 38,63%
+DNS - UDP/TCP → 38,22%
+SMTP (troca de mensagens) → 38,22%
+Enlace → 30,30%
+Get condicional → 30,30%
+RTTs e DNS → 18,81%
+HTTP persistente → 30,30%
+Go-Back-N → 18,81%
+Funções de transporte → 18,81%
+RDT → 18,81%
+Distribuição binomial → 18,81%
+Priorização de stream → 18,81%
+
+
+*1. P2P Cálculo*
+Redes **Peer-to-Peer (P2P)** permitem a distribuição de arquivos sem um servidor central. O cálculo pode envolver a **taxa de download**, **tempo total de transmissão** e **quantidade de nós necessários** para completar a transmissão.  
+
+---
+
+**2. Atraso de Transmissão**  
+O **atraso de transmissão** é o tempo necessário para um pacote ser **completamente colocado no meio de transmissão**. Ele depende do tamanho do pacote e da taxa de transmissão do meio:  
+\[
+d_{trans} = \frac{L}{R}
+\]
+Onde:  
+- \(L\) = Tamanho do pacote (bits)  
+- \(R\) = Taxa de transmissão do meio (bps)  
+
+---
+
+**3. Atraso Fim-a-Fim**  
+Refere-se à soma de todos os atrasos que um pacote sofre do emissor ao receptor:  
+\[
+d_{total} = d_{proc} + d_{fila} + d_{trans} + d_{prop}
+\]
+- \(d_{proc}\) = Atraso de processamento  
+- \(d_{fila}\) = Atraso de enfileiramento  
+- \(d_{trans}\) = Atraso de transmissão  
+- \(d_{prop}\) = Atraso de propagação  
+
+---
+
+**4. Quantas Consultas DNS**  
+Envolve determinar **quantas consultas DNS** são feitas para resolver um domínio. Pode incluir:  
+- Resolução **iterativa** vs. **recursiva**  
+- Número de servidores de nomes consultados  
+- Tempo total de resposta  
+
+---
+
+**5. Cabeçalho HTTP**  
+O **cabeçalho HTTP** contém informações importantes sobre a requisição/resposta, como:  
+- **Método (GET, POST, etc.)**  
+- **Código de status (200 OK, 404 Not Found)**  
+- **Campos como User-Agent, Content-Type, Cache-Control**  
+
+---
+
+**6. DNS - UDP vs. TCP**  
+O **DNS** geralmente usa **UDP** para consultas rápidas, mas pode usar **TCP** para respostas grandes (como transferências de zona). Questões podem envolver:  
+- Quando o DNS usa UDP  
+- Quando precisa de TCP (respostas acima de 512 bytes, DNSSEC)  
+
+---
+
+**7. SMTP (Troca de Mensagens)**  
+O **Simple Mail Transfer Protocol (SMTP)** é usado para envio de e-mails. Questões podem envolver:  
+- Funcionamento do SMTP  
+- Comandos como HELO, MAIL FROM, RCPT TO  
+- Diferença entre **SMTP, POP3 e IMAP**  
+
+---
+
+**8. Enlace**  
+Camada de enlace lida com a transmissão de quadros em redes locais. Pode incluir:  
+- **Detecção e correção de erros** (CRC, paridade)  
+- **Protocolos como Ethernet, Wi-Fi**  
+- **Controle de acesso ao meio (CSMA/CD, CSMA/CA)**  
+
+---
+**9. Get Condicional**  
+No **HTTP**, a requisição `GET` condicional permite otimizar o tráfego verificando se um recurso foi modificado. Envolve:  
+- **Cabeçalho If-Modified-Since**  
+- **Redução do uso de largura de banda**  
+
+---
+
+**10. RTTs e DNS**  
+O **Round-Trip Time (RTT)** mede o tempo para um pacote ir e voltar até o destino. O RTT influencia o tempo de resposta do **DNS** e pode ser otimizado com **caches e CDNs**.  
+
+---
+
+**11. HTTP Persistente**  
+O HTTP 1.1 permite **conexões persistentes**, reduzindo a latência ao evitar múltiplas conexões. Pode incluir:  
+- **Vantagens do Keep-Alive**  
+- **Impacto no desempenho**  
+
+---
+
+**12. Go-Back-N**  
+Protocolo de controle de fluxo no TCP que permite enviar vários pacotes antes de receber confirmações. Pode envolver:  
+- **Janela deslizante**  
+- **Reenvio de pacotes perdidos**  
+
+---
+
+**13. Funções de Transporte**  
+A camada de transporte garante **entrega confiável** e **controle de fluxo**. Pode incluir:  
+- **Diferença entre TCP e UDP**  
+- **Multiplexação e demultiplexação**  
+
+---
+
+**14. RDT (Reliable Data Transfer)**  
+Protocolo para **transmissão confiável de dados**. Pode envolver:  
+- **Mecanismos de confirmação (ACK/NACK)**  
+- **Retransmissão de pacotes perdidos**  
+
+---
+
+**15. Distribuição Binomial**  
+Aplicada em redes para modelar eventos discretos, como **probabilidade de perda de pacotes** em um meio com erros.  
+
+---
+
+**16. Priorização de Stream**  
+Usada em protocolos como **HTTP/2 e QoS**, permitindo que certos fluxos de dados tenham **prioridade na rede**, melhorando o desempenho de vídeos e chamadas.  
+
+
+
+
