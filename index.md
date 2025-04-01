@@ -6,6 +6,10 @@ nav_order: 0
 
 {% assign pdf_files = site.static_files | where_exp: "file", "file.path contains '/docs/disciplinas/' and file.extname != '.md' and file.extname != '.html'" %}
 
+{: .contribua }
+
+> Tem arquivos úteis de disciplinas anteriores? Considere compartilhar para aumentar nosso acervo coletivo. **O acervo só existe graças a colaborações como a sua! 🚀**
+
 # **Acervo da Ciência da Computação**
 
 Central de Provas, Trabalhos, Atividades e Materiais de Estudo.
@@ -20,10 +24,6 @@ Temos {{ pdf_files | size }} arquivos no nosso acervo! 🎉
 </span>
 
 ---
-
-{: .informacao }
-
-> Algumas provas podem estar com links quebrados ou sem link disponível. Nesses casos, a prova pode ter sido removida ou ocorrido algum erro. Para mais informações, entre em contato com o administrador.
 
 {: .aviso }
 
