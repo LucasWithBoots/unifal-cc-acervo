@@ -10,3 +10,4 @@ parent: Disciplinas
 {: .label .label-green }
 
 - [Prova 1](2025/1/prova1.pdf)
+- [Gabarito Prova 1](2025/1/gabarito_prova1.pdf)
