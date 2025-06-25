@@ -16,3 +16,4 @@ parent: Disciplinas
 
 - [Prova 1](2025/1/prova1.pdf)
 - [Prova 2](2025/1/prova2.pdf)
+- [Prova 3 - Parte A](2025/1/prova3_parteA.pdf)
