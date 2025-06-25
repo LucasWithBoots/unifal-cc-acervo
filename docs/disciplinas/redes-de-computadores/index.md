@@ -32,6 +32,7 @@ parent: Disciplinas
 
 - [Prova 1](2025/1/prova1.pdf)
 - [Prova 2](2025/1/prova2.pdf)
+- [Prova 3](2025/1/prova3.pdf)
 
 Desconhecido
 {: .label .label-green }
