@@ -21,10 +21,6 @@ Temos {{ pdf_files | size }} arquivos no nosso acervo! 🎉
 
 ---
 
-{: .contribua }
-
-> Tem arquivos úteis de disciplinas anteriores? Considere compartilhar para aumentar nosso acervo coletivo. **O acervo só existe graças a colaborações como a sua! 🚀**
-
 {: .aviso }
 
 > Este acervo é uma iniciativa independente e não possui nenhuma afiliação, parceria ou vínculo oficial com a [Universidade Federal de Alfenas (UNIFAL-MG)]. Todo o conteúdo disponível aqui é de responsabilidade exclusiva dos seus administradores e visa apenas fornecer um recurso adicional para auxiliar os estudantes em seus estudos.
