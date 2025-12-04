@@ -32,3 +32,8 @@ parent: Disciplinas
 - [Prova 2](2025/2/prova2.pdf)
 - [Prova 3](2025/2/prova3.pdf)
 - [Prova 4](2025/2/prova4.pdf)
+- [Explicação Código](2025/2/explicacao-codigo.pdf)
+
+{: .importante }
+
+> "Explicação Código" foi um questionário sobre o compilador que fizemos no [projeto prático](2025/2/projeto_compiladores-main.zip).
