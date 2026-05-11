@@ -22,3 +22,8 @@ parent: Disciplinas
 {: .importante }
 
 > A **Prova 3 - Parte A** foi uma prova convencional realizada em sala, enquanto a **Prova 3 - Parte B** foi uma atividade prática feita em laboratório, em grupo, com acesso à internet e com o objetivo de desenvolver os problemas em Python/Rust.
+
+2026/1
+{: .label .label-green }
+
+- [Prova 1](2026/1/prova1.pdf)
