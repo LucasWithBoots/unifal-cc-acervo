@@ -19,6 +19,10 @@ Temos {{ pdf_files | size }} arquivos no nosso acervo! 🎉
 [Veja no Github](https://github.com/LucasWithBoots/unifal-cc-acervo){: .btn target="_blank"}
 </span>
 
+{: .destaque }
+
+> **Tem uma prova que não está no acervo?** Me envie pelo [WhatsApp](https://wa.me/5527996610631). Antes de publicar, removo qualquer dado pessoal da prova para preservar sua identidade.
+
 ---
 
 {: .aviso }
