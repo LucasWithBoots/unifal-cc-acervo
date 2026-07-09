@@ -28,6 +28,7 @@ parent: Disciplinas
 
 - [Prova 1](2026/1/prova1.pdf)
 - [Prova 2](2026/1/prova2.pdf)
+- [Explicação Trabalho](2026/1/explicacao-trabalho.pdf)
 
 Desconhecido
 {: .label .label-green }
